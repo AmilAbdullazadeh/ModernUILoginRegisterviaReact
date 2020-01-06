@@ -1,10 +1,10 @@
                                                 App Screenshots
 
-Login
+Register
 
 ![](img1.png)
 
-Register
+Login
 
 ![](img2.png)
 
